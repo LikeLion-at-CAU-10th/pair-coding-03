@@ -1,0 +1,80 @@
+.container {
+    display: flex;
+    margin:0 40px 0 40px;
+}
+
+body{
+    background-color: #f6f7f8;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.box {
+    display: flex;
+    width: 23%;
+    flex-direction: column;
+    margin: 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.mainimg{
+    border-radius: 10px 10px 0 0;
+}
+
+.title{
+    
+}
+.content{
+    font-size: 14px;
+}
+.date{
+    font-size:8px;
+}
+.tag{
+    font-size:8px;
+}
+.bundle{
+    padding:0 10px 10px 10px;
+}
+.loginbtn{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 5px 10px 5px 10px ;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.navimg{
+    padding: 0 10px 0 0;
+    vertical-align: middle;
+}
+
+nav{
+     justify-content: flex-start; 
+     margin:10px 40px 40px 50px;
+}
+.floatright{
+    float: right;
+    margin-top: 6px;
+    margin-right: 25px;
+}
+.tagimg{
+    vertical-align: middle;
+}
+.trend{
+    margin-left: 50px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.spanhi{
+    border-bottom: black;
+    margin-right: 18px;
+    font-size: 14px;
+}
+.listimg{
+    vertical-align: middle;
+}
