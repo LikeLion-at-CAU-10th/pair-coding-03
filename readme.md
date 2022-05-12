@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/92968138/168068896-83405670-9efc-4faf-9501-4e256db5fda0.jpg" width="300">
-#멋쟁이 사자 3조
+# 멋쟁이 사자 3조
 
 팀원 : 최윤한(조장), 권수연, 김민서, 정현우, 최다민
 
