@@ -1,8 +1,15 @@
 <img src="https://user-images.githubusercontent.com/92968138/168068896-83405670-9efc-4faf-9501-4e256db5fda0.jpg" width="300">
 
-## 멋쟁이 사자 3조
+## 🦁멋쟁이 사자처럼 중앙대 10기 3조🦁
+| Position |  Member   |  
+| :---: | :-----: | 
+| Leader | [unanchoi](https://github.com/unanchoi) | 
+| Login Page| [Suyeon Kwon](https://github.com/suyam526)| 
+| Login Page| [Minseo205](github.com/minseo205)| 
+| Blog Page| [Damin Choi](github.com/daminchoi)| 
+| Blog Page| [Supersett](https://github.com/supersett)|  
 
-팀원 : 최윤한(조장), 권수연, 김민서, 정현우, 최다민
+
 
 <br>
 
